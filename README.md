@@ -7,4 +7,4 @@
 
 ## 如何预览
 
-点击https://jamesyinhangjun.github.io/blog20190110/即可
+点击https://jamesyinhangjun.github.io/blog20190110/ 即可
